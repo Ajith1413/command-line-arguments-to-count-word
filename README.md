@@ -27,6 +27,8 @@ Run the program to determine the number of words in the file created.
 
 ## PROGRAM:
 ```
+#Developed by: AJITH KUMAR A
+#Register Number: 23002150
 import sys
 count=0
 with open(sys.argv[1],'r') as f:
